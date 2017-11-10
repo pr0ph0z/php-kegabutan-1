@@ -1,5 +1,5 @@
 <?php
-echo "Masukkan kalimat gabut lo wkowkowkow = ";
+echo "Masukkan kalimat gabut lo ngehe = ";
 $string = str_split(trim(fgets(STDIN)));
 	for ($i=0; $i <count($string) ; $i++) {
 		for ($a=0; $a <= $i; $a++) { 
